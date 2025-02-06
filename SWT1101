@@ -1,7 +1,7 @@
 
 #include <stdio.h>
 int main() {
-
+          printf("wELOCOME\n");
           printf("SEU/IS/22/IC\n");
 		  printf("HASUN DEWAGE\n");
 		 
